@@ -17,3 +17,5 @@ This is a very simple command line utility that does simple things to sort TV sh
 $ tvsorter3.py -d /staging_directory/unsorted/ -t /target_directory/tv/ -sv --auto 
 ```
 In the above example, you give it the staging directory where your TV files are located and then provide it with the target directory where you store your TV shows for your PLEX library.  
+
+I typically like to create a bash alias to call the script for ease of use. 
