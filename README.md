@@ -1,6 +1,6 @@
-#TVSorter3 
+# TVSorter3 
 
-TVSorter3 was originally a Python2 project that I began when I first began using PLEX Media Server almost a decade ago.  I am not a programmer or software engineer by any stretch of the imagination but I had a problem that I wanted to solve and this has been working for me for a long time.
+## TVSorter3 was originally a Python2 project that I began when I first began using PLEX Media Server almost a decade ago.  I am not a programmer or software engineer by any stretch of the imagination but I had a problem that I wanted to solve and this has been working for me for a long time.
 
 This is a very simple command line utility that does simple things to sort TV show files into a PLEX friendly directory/folder structure: 
     - First it looks at a staging directory
