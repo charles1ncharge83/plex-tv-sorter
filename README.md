@@ -1,4 +1,4 @@
-TVSorter3 
+#TVSorter3 
 
 TVSorter3 was originally a Python2 project that I began when I first began using PLEX Media Server almost a decade ago.  I am not a programmer or software engineer by any stretch of the imagination but I had a problem that I wanted to solve and this has been working for me for a long time.
 
